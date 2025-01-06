@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/melih-eren-malli-1619672a9/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.instagram.com/mermalatt/" alt="Instagram" title="My Instagram"><img width="32px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Finstagram%2Finstagram_PNG10.png&f=1&nofb=1&ipt=5f1770ed1cae18532f3e5f3dd9d5e459772938619836e0f0e5492d2e4eb874e0&ipo=images/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
