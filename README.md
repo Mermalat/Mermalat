@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=400&color=6CAEF7&background=FFFFFF00&center=true&width=435&lines=Profilime+ho%C5%9Fgeldiniz" alt="Typing SVG" /></a>
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=400&color=6CAEF7&background=FFFFFF00&center=true&width=435&lines=Profilime+ho%C5%9Fgeldiniz" alt="Typing SVG" /></a>
   <a href="https://www.linkedin.com/in/melih-eren-malli-1619672a9/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   <a href="https://www.instagram.com/mermalatt/"><img img width="125px" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Insta-8A2BE2"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
