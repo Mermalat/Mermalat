@@ -10,7 +10,7 @@
 </p>
     
 - 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some OpenSource Projects</a></b>
-- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">Design Patterns With C# </a></b>
+- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">Robosim with gazebo and opencv </a></b>
 - 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.com">mermalat.com</a>
     
 <p align="center">
@@ -41,7 +41,7 @@
 
 <details> 
   <summary>
-  <b style="color:#DBAA79;">💻 <a href="#">GitHub Profile Stats</a></b>
+  <b style="color:#DBAA79;">💻 <a href="#"><br>GitHub Profile Stats</a></b>
   </summary>
   <br/>
   <p align="center">
