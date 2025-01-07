@@ -1,4 +1,10 @@
-<h1>HELLO</h1>
+<div align="center">
+<!-- <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+<!-- <img style="width:600px; height:350px" src="https://i.imgur.com/ijdyxfE.gif" /> -->
+<img width="540" height="270" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gif" />
+<h3>Olá 👋, I'm <a style="color:#72BEF2" href="https://github.com/Mermalat" target="_blank">Melih Eren</a> </h3>
+<h2 style="color:#D36770; font-weight:bold">
+</div> 
 <p style="font-family: 'Roboto', sans-serif; font-size: 18px; line-height: 1.8; color: #333;">
     Hello again, my name is Melih Eren MALLI(Developer, Filmmaker and Creater). I'm currently studying at Kocaeli University/Turkey, I'm posting things I made on my way of learning things. This readme file might me a little bit untidy, but probably I will restore it even before you see it.
 </p>
