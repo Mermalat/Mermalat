@@ -1,3 +1,7 @@
+<h1>HELLO</h1>
+<p style="font-family: 'Roboto', sans-serif; font-size: 18px; line-height: 1.8; color: #333;">
+    Hello again, my name is Melih Eren MALLI(Developer, Filmmaker and Creater). I'm currently studying at Kocaeli University/Turkey, I'm posting things I made on my way of learning things. This readme file might me a little bit untidy, but probably I will restore it even before you see it.
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=400&color=6CAEF7&background=FFFFFF00&center=true&width=435&lines=Profilime+ho%C5%9Fgeldiniz" alt="Typing SVG" /></a>
 <p align="center">
@@ -9,17 +13,7 @@
   <a href="https://github.com/Mermalat">
     <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159" alt="GitHub Profilim" width="498" height="498">
 </a>
-
-
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-
-<h1>HELLO</h1>
-<p style="font-family: 'Roboto', sans-serif; font-size: 18px; line-height: 1.8; color: #333;">
-    Hello again, my name is Melih Eren MALLI(Developer, Filmmaker and Creater). I'm currently studying at Kocaeli University/Turkey, I'm posting things I made on my way of learning things. This readme file might me a little bit untidy, but probably I will restore it even before you see it.
-</p>
-
 
 ---
 ## 🛠 Languages and Tools
