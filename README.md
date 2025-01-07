@@ -10,20 +10,6 @@
     <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159" alt="GitHub Profilim" width="498" height="498">
 </a>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159" alt="bendir" width="498">
-    <div>
-        <a href="https://www.linkedin.com/in/melih-eren-malli-1619672a9/" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
-        </a>
-        <a href="https://www.instagram.com/mermalatt/" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram" width="30">
-        </a>
-        <a href="github.com/Mermalat" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30">
-        </a>
-    </div>
-</div>
 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
