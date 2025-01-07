@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/melih-eren-malli-1619672a9/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/mermalatt/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-8A2BE2"/></a>
+  <a href="https://www.instagram.com/mermalatt/"><img img width="64px" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-8A2BE2"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
