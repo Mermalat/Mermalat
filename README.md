@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/melih-eren-malli-1619672a9/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   <a href="https://www.instagram.com/mermalatt/" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram" width="30">
+            <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram" width="64px">
 
 <p align="center">
   <a href="https://github.com/Mermalat">
