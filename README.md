@@ -37,6 +37,17 @@
 <img align="left" alt="Java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg"> 
 <img align="left" alt="Java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>
+  <b style="color:#DBAA79;">💻 <a href="#">GitHub Profile Stats</a></b>
+  </summary>
+  <br/>
+  <p align="center">
+    <a href="#"><img alt="mermalat's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Mermalat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180em"/></a>
+  <a href="#"><img alt="Mermalat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mermalat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180em"/></a></p>
+</details>
+
 
 <!--
 **Mermalat/Mermalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
