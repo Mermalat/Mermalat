@@ -38,10 +38,10 @@
 <img align="left" alt="Java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+<br/>
 <details> 
   <summary>
-  <b style="color:#DBAA79;">💻 <a href="#"><br>GitHub Profile Stats</a></b>
+  <b style="color:#DBAA79;">💻 <a href="#">GitHub Profile Stats</a></b>
   </summary>
   <br/>
   <p align="center">
