@@ -11,7 +11,7 @@
     
 - 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some OpenSource Projects</a></b>
 - 🌱 I’m currently learning <b style="color:#95C077"><a href="#">Robosim with gazebo and opencv </a></b>
-- 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.com">mermalat.com</a>
+- 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.vercel.app">mermalat.com</a>
     
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=400&color=6CAEF7&background=FFFFFF00&center=true&width=435&lines=Profilime+ho%C5%9Fgeldiniz" alt="Typing SVG" /></a>
