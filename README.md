@@ -6,7 +6,7 @@
 <h2 style="color:#D36770; font-weight:bold">
 </div> 
 <p style="font-family: 'Roboto', sans-serif; font-size: 18px; line-height: 1.8; color: #333;">
-    Hello again, my name is Merma(Developer, Filmmaker and Creater). I'm currently studying at Kocaeli University/Turkey, I'm posting things I made on my way of learning things. This readme file might me a little bit untidy, but probably I will restore it even before you see it.
+    Hello again, my name is Merma(Developer, Filmmaker and Creator). I'm currently studying at Kocaeli University/Turkey, I'm posting things I made on my way of learning things. This readme file might me a little bit untidy, but probably I will restore it even before you see it.
 </p>
     
 - 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some OpenSource Projects</a></b>
