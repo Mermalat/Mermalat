@@ -10,7 +10,7 @@
 </p>
     
 - 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some OpenSource Projects</a></b>
-- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">Robosim with gazebo and opencv </a></b>
+- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">DATA TYPES FOR MY DATA TYPES AND ALGORITHMS CLASS</a></b>
 - 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.vercel.app">mermalat.com</a>
     
 <p align="center">
