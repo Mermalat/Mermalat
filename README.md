@@ -9,9 +9,9 @@
     Hello again, my name is Merma(Developer, Filmmaker and Creator). I'm currently studying at Kocaeli University/Turkey, I'm posting things I made on my way of learning things. This readme file might me a little bit untidy, but probably I will restore it even before you see it.
 </p>
     
-- 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some OpenSource Projects</a></b>
-- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">DATA STRUCTURES FOR MY DATA STRUCTURES AND ALGORITHMS CLASS</a></b>
-- 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.vercel.app">mermalat.com</a>
+- 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some Opensource Projects</a></b>
+- 🌱 I’m currently learning <b style="color:#95C077"><a href="#"></a></b>
+- 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.com">mermalat.com</a>
     
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=400&color=6CAEF7&background=FFFFFF00&center=true&width=435&lines=Profilime+ho%C5%9Fgeldiniz" alt="Typing SVG" /></a>
