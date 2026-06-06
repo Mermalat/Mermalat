@@ -9,8 +9,8 @@
     Hello again, my name is Merma(Developer, Filmmaker and Creator). I'm currently studying at Kocaeli University/Turkey, I'm posting things I made on my way of learning things. This readme file might me a little bit untidy, but probably I will restore it even before you see it.
 </p>
     
-- 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some Opensource Projects</a></b>
-- 🌱 I’m currently learning <b style="color:#95C077"><a href="#"></a></b>
+- 🔭 I’m currently working on <b style="color:#95C077"><a href="[#](https://www.42network.org/)">Pushung project at 42schools</a></b>
+- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">C++, CMake, Qt5</a></b>
 - 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.com">mermalat.com</a>
     
 <p align="center">
