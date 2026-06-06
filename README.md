@@ -14,7 +14,7 @@
 - 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://mermalat.com">mermalat.com</a>
     
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=400&color=6CAEF7&background=FFFFFF00&center=true&width=435&lines=Eve gitmem gerek her yerdeyim" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=400&color=6CAEF7&background=FFFFFF00&center=true&width=435&lines=Profilime+ho%C5%9Fgeldiniz" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://www.linkedin.com/in/melih-eren-malli-1619672a9/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   <a href="https://www.instagram.com/mermalatt/" target="_blank">
