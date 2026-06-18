@@ -29,21 +29,21 @@ I use this GitHub profile to share the projects, experiments and notes I create 
 
 ---
 
-<div align="center">
-
-<img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159" alt="GitHub Profile GIF" width="420" height="420">
-
-<br/>
-
-<h3>Thanks for visiting my profile ✨</h3>
-
-</div>
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<div align="center">
+
+<img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159" alt="GitHub Profile GIF" width="420" height="420">
+
+<br/>
+
+<h3 align="start">Thanks for visiting my profile ✨</h3>
+
+</div>
+
 [![](https://komarev.com/ghpvc/?username=Mermalat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
