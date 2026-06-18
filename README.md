@@ -27,8 +27,18 @@ I use this GitHub profile to share the projects, experiments and notes I create 
 ![](https://streak-stats.demolab.com/?user=Mermalat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mermalat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mermalat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+<div align="center">
+
+<img src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159" alt="GitHub Profile GIF" width="420" height="420">
+
+<br/>
+
+<h3>Thanks for visiting my profile ✨</h3>
+
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
