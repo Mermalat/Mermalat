@@ -41,7 +41,7 @@ I use this GitHub profile to share the projects, experiments and notes I create 
 
 <br/>
 
-<h3 align="start">Thanks for visiting my profile ✨</h3>
+<h3>Thanks for visiting my profile ✨</h3>
 
 </div>
 
