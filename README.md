@@ -8,7 +8,7 @@
 </div>
 
 ## 👋 About Me
-Hello again, my name is **Merma**. I’m a **developer, filmmaker and creator** currently studying at **Kocaeli University, Turkey**.
+Hello again, my name is **Merma**. I’m a **developer, photographer and creator** currently studying at **Kocaeli University, Turkey**.
 I use this GitHub profile to share the projects, experiments and notes I create while learning new technologies. This README may look a little untidy from time to time, but I’m always improving it as I learn more.
 * 🔭 I’m currently working on **42 School projects**
 * 🌱 I’m currently learning **C++, CMake and Qt5**
