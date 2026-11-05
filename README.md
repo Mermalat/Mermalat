@@ -1,7 +1,7 @@
 <div align="center">
 <img width="540" height="270" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gif" />
 <h1>Olá 👋, I'm <a href="https://github.com/Mermalat" target="_blank">Melih Eren</a></h1>
-<h3>Developer • photographer • Creator</h3>
+<h3>Developer • Photographer • Creator</h3>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=6CAEF7&background=FFFFFF00&center=true&width=600&lines=Profilime+ho%C5%9Fgeldiniz;Welcome+to+my+GitHub+profile;Learning%2C+building%2C+creating" alt="Typing SVG" />
 </a>
